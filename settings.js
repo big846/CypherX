@@ -34,12 +34,12 @@ global.ownernumber = process.env.OWNER_NUMBER || '2250150188641'
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || '' 
+global.ownername = process.env.OWNER_NAME || '𓊈𝙏𝞖𝞢 𝞑𝞘𝙂𝙒𝞘𝞜𝞜𝞢𝞒💫🧃👑 𓊉' 
 // Set your name, currently it's the mastermind's. The one and only... Tylor. (Don't ask how I got here, it's a mystery.)
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "" 
+global.packname = process.env.STICKER_PACK_NAME || "𓊈𝙏𝞖𝞢 𝞑𝞘𝙂𝙒𝞘𝞜𝞜𝞢𝞒💫🧃👑 𓊉" 
 // Time to decide the name for your sticker pack. This will appear every time you create a sticker. "Cypher" is the default because... well, why not?
 
 //--------------[ STICKER AUTHOR NAME ]------------//
